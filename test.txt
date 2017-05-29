@@ -1,10 +1,1 @@
- Volume in drive D has no label.
- Volume Serial Number is BA96-014B
-
- Directory of D:\Git software\My Project
-
-05/29/2017  11:44 AM    <DIR>          .
-05/29/2017  11:44 AM    <DIR>          ..
-05/29/2017  11:44 AM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  217,419,341,824 bytes free
+Modified -- 1
